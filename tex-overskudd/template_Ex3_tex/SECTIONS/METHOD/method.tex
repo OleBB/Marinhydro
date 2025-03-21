@@ -1,0 +1,158 @@
+\subsection{Setup}
+
+\subsection{Buoy design}
+A well designed buoy should follow the water such that the sensor inside gives meaningful results. As an experiment, the buoy was given a golf ball pattern. And for practical purposes, the "golf bouy" was made to fit a standard IKEA lid.
+
+\subsubsection{3d printing}
+The 3d printer (Prusa MK4) with 0.4 nozzle, using PLA, did a fantastic job. No water was found to go through the shell after 4 days under 30 cm of water.  Infill was set to 15\% but, with extra thick walls. Some water was found underneath the flat rubber band of the lid, but this was not a problem.
+%0.20 mm speed. generic pla. original prusa MK4 input shaper 0.4 nozzle
+%how big was the walls on the onshape fig?. and then x% extra size for shrinkage. 
+
+
+\begin{figure*}[h!]
+    \centering
+    \includegraphics[width=0.3\linewidth]{IMG_7293.jpeg}
+    \caption{Printing the golf buoy}
+    \label{fig:coord}
+\end{figure*}
+
+\begin{figure*}[ht]
+    \centering
+    \includegraphics[width=0.7\linewidth ,angle =-90]{IMG_7549.jpeg}
+    \caption{Buoys in the tank. Third and fourth wave probes are seen in the top}
+    \label{fig:buoys}
+\end{figure*}
+
+\begin{figure*}[h]
+    \centering
+    \includegraphics[width=0.7\linewidth]{golfbuoy_1225.png}
+    \caption{Photo of the golf buoy in a steep wave}
+    \label{fig:golfbuoy_1225}
+\end{figure*}
+
+\begin{figure*}[h]
+    \centering
+    \includegraphics[width=0.7\linewidth]{matbuoy_1126}%1126 er tidspunktet bildet er tatt(denne fra 21 okt.
+    \caption{This square box was used to study how different designs react to waves. As expected, it rotated unpredictably.}
+    \label{fig:matbuoy}
+\end{figure*}
+
+
+
+
+% - % - % - % - % - % - % - % - SENSOR VALIDATION % - % - % - % - % - % - % - % -
+\subsubsection{Validating the sensor accuracy.}
+In order to understand our sensors we did a controlled validation of the IMU. We mounted the accelerometer onto the wavemaker, and made 6 runs with the following frequencies and amplitudes. The 2nd and 6th run were the same.
+\[
+\begin{bmatrix}
+Run & f [Hz] & Wave maker input [V] & Amplitude [cm] \\
+1st   & 1 &0.3 & 2.5 \\
+2nd & 3 & 0.3 & 2.5 \\
+3rd & 2 & 0.3 & 2.5 \\
+4th & 0.5 & 0.3 & 2.5\\
+5th & 0.5 & 0.1 & 7.6\\
+6th & 3 & 0.3 & 2.5 
+\end{bmatrix}
+\]
+By mistake, the sensor was set to 5Hz. Running FFT on the high frequency data does not give sensible results. The raw acceleration data is what has been analysed here. Run number 2 and 6 are equal. 
+
+% bokser på bølgemakern
+\begin{figure*}[htbp]
+    \centering
+    \begin{subfigure}[b]{0.3\textwidth}
+        \centering
+        \includegraphics[width=\textwidth, angle =-90]{IMG_7113.jpeg}
+        \caption{First run}
+        \label{fig:subfig100v}
+    \end{subfigure}
+    \hfill
+    \begin{subfigure}[b]{0.3\textwidth}
+        \centering
+        \includegraphics[width=\textwidth, angle =-90]{IMG_7116.jpeg}
+        \caption{Second run, now at an 80 degree angle. This should have been set at a proper 90 degree angle}
+        \label{fig:subfig101v}
+    \end{subfigure}
+    \hfill
+    \begin{subfigure}[b]{0.3\textwidth}
+        \centering
+        \includegraphics[width=\textwidth, angle =-90]{IMG_7169.jpeg}
+        \caption{Placement of the IMU and the battery.}
+        \label{fig:subfig102v}
+    \end{subfigure}
+    \caption{IMUs mounted on the wave maker. The box was unnecessary. A bracket to perfectly control the rotation between each run would have be better.}
+    \label{fig:three_subfigures}
+\end{figure*}
+
+
+
+
+%%%%%%%%%%%%%%% er detta discussion???
+
+%file: small_wave i utklippsmappen.
+
+
+%see picture: 
+
+%Distance from wave maker to probes: 1st probe: 8m, 2nd probe:10m, 3rd probe (in between 2 and 4, but uncertain), 4th probe: 11.5m. 
+
+%\subsubsection{junk data}
+
+%%%%%%%% accelerometer validation %%%%%%%
+\begin{figure}[htbp]
+        \centering
+        \includegraphics[width=\textwidth]{Log38_run2_wave2_f02f03.jpg}
+        \caption{Accelerometer validation. Run 2, wave 2, cutoff frequency f1=0.2, f2=0.3. This figure, and the one below should ideally give identical results. Knowing we have a low sample rate, we should use this as to understand the limitations of our IMU. A direct comparison has not been done.}
+        \label{fig:}
+\end{figure}
+
+\begin{figure}
+        \centering
+        \includegraphics[width=\textwidth]{Log38_run2_wave6_f02f03.jpg}
+        \caption{Accelerometer validation. Run 2, wave 6, cutoff frequency f1=0.2, f2=0.3.}
+        \label{fig:}
+\end{figure}
+
+
+
+%%%%%%%%%%%%%%%% COMMENT below
+\begin{comment}
+... dette må nesten bli en oppskrift på hvordan gjøre det bedre neste gang. rekkefølgen er viktig. hva MÅ gjøres først?
+1. 
+2. Om IMU'en
+3. 3D print. plassere dingsen i dead center? god vektfordeling.
+4. 
+5. wave maker set up
+6. computer trigger set up
+7. 
+8. probe data 
+9. data analysis
+10. 
+11. 
+%%%%%
+teori fra sist gang:
+\subsection{Theory}
+Waves 100, 101, 102 are deep water Stokes wave with $ak < 3$. Waves 200, 201,202, are linear.
+The dispersion relation for 3rd order Stokes waves:
+\begin{align}
+\omega = \sqrt{(g\cdot k \cdot (1 + k^2 \cdot A^2))} 
+\end{align}
+The equation for finding the velocity profile below the crest:
+\begin{align}
+u = (g\cdot\epsilon/\omega)\cdot\cos(\theta) e^{k\cdot y}
+\end{align}
+
+Dispertion relation for linear waves finite depth:
+\begin{align}
+\omega = \sqrt{(g\cdot k \cdot \tanh(k\cdot h))}
+\end{align}
+The equation for finding the velocity profile below the crest:
+\begin{align}
+u = (((g\cdot \epsilon/ \omega)\cdot \cos(\theta))/\cosh(k\cdot h)) \cdot (\cosh(k\cdot (y+h)))
+\end{align}
+
+
+%setup: how did we measure stuff?
+%how did we build the thing?
+% a test ring was made
+%%%%
+\end{comment}

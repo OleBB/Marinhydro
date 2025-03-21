@@ -1,0 +1,6 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{\numberline {1} }{1}{section.1}%
+\contentsline {section}{\numberline {2}}{1}{section.2}%
+\contentsline {section}{\numberline {3}Figurer}{2}{section.3}%
+\contentsline {subsection}{\numberline {a)}Diskretisering av ellipse}{2}{subsection.3.1}%
+\contentsline {section}{\numberline {4}Kvadrat}{6}{section.4}%

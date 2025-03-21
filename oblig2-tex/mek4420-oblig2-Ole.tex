@@ -1,0 +1,79 @@
+\documentclass{article}
+
+\usepackage{simonspreamble}
+
+\usepackage[toc]{appendix}
+\usepackage{xcolor}
+\usepackage{cancel} % \cancel, \bcancel,  \xcancel  artig: \cancelto
+\usepackage{multicol}
+\usepackage{blindtext}
+\usepackage{lipsum}  %lorem ipsum
+\usepackage{comment}  
+\usepackage{placeins} %for å trikse med bildeplassering \FloatBarrier
+
+\definecolor{red}{RGB}{255,0,0}
+\definecolor{blue}{RGB}{0,0,255}
+\definecolor{green}{RGB}{0,128,0}
+
+\renewcommand\thesubsection{\alph{subsection})} %Gjør at subsection blir a) i stedet for 1.1.1
+\newcommand{\vect}[1]{\boldsymbol{{#1}}} %en ny kommando som sier at \vect gir fet skrift. det er alternativ vektornotasjon.
+
+%\begin{multicols*}{2}
+%\end{multicols*}
+
+%%%%%% Skriv emnekode her %%%%%%
+\makeatletter
+\edef\headcourse{MEK4420} %subtitle name and course header
+\makeatother
+
+%%%%%% tittel, namn, dato %%%%%%
+\title{student task}
+\subtitle{\textit{\headcourse}}
+\author{\textsc{Ole Sandok}}
+\date{March 2025} %\textsuperscript{17}
+
+%%%%%% header title %%%%%%
+\makeatletter
+\edef\headtitle{\@title}
+\makeatother
+
+\begin{document}
+\maketitle 
+\thispagestyle{fancy}
+
+\section{Introduction}
+
+\section{7.1}
+%\subfile{SECTIONS/710BVP/bvp.tex}
+
+\section{7. 2}
+%\subfile{SECTIONS/720BVPGREEN/bvpgreen.tex}
+
+\section{7. 3}
+%\subfile{SECTIONS/730_40INTEGRAL/integral.tex}
+
+\section{7. 5. 1}
+%\subfile{SECTIONS/751LAGBOKS/lagboks.tex}
+
+\section{7.5.2 - Løs integrallikningen med kjente variabler}
+%\subfile{SECTIONS/752SOLVE/solve.tex}
+
+\section{7.5.3 - Solution of the heave problem}
+\subfile{SECTIONS/753SOLUTION/753solution.tex}
+
+\section{Wave Mechanics}
+%\subfile{SECTIONS/760FARFIELD/farfield.tex}
+
+\section{Wave Mechanics}
+%\subfile{SECTIONS/780ADDEDMASS/addedmass.tex}
+
+\section{Kladd}
+%\subfile{SECTIONS/KLADD/kladd.tex}
+
+\section{References}
+[1]: Open Met Buoy, J. Rabault - DOI: 10.13140/RG.2.2.15826.07368
+
+
+
+\end{document}
+
