@@ -18,8 +18,12 @@
 \renewcommand\thesubsection{\alph{subsection})} %Gjør at subsection blir a) i stedet for 1.1.1
 \newcommand{\vect}[1]{\boldsymbol{{#1}}} %en ny kommando som sier at \vect gir fet skrift. det er alternativ vektornotasjon.
 
+\captionsetup[figure]{name=Figur} %på norsk
+
 %\begin{multicols*}{2}
 %\end{multicols*}
+
+%--------------
 
 %%%%%% Skriv emnekode her %%%%%%
 \makeatletter
@@ -27,7 +31,7 @@
 \makeatother
 
 %%%%%% tittel, namn, dato %%%%%%
-\title{student task}
+\title{Krefter og respons i hiv}
 \subtitle{\textit{\headcourse}}
 \author{\textsc{Ole Sandok}}
 \date{March 2025} %\textsuperscript{17}
@@ -37,52 +41,85 @@
 \edef\headtitle{\@title}
 \makeatother
 
-\begin{document}
-\maketitle 
-\thispagestyle{fancy}
 
-\section{Introduction}
+\begin{document}
+\maketitle
+\thispagestyle{fancy} 
+
+\section{Introduksjon}
+I denne oppgaven ser vi på en flytende geometri i to dimensjoner. Vi regner først på kreftene fra en geometri i bevegelse til tillestående vann. Så regner vi på kreftene som mottas og reflekteres av en stillestående geometri. Vi undersøker resonans og repons i hiv. 
 
 \section{7.1}
-%\subfile{SECTIONS/710BVP/bvp.tex}
+\subfile{SECTIONS/710BVP/bvp.tex}
 
-\section{7. 2}
-%\subfile{SECTIONS/720BVPGREEN/bvpgreen.tex}
+\section{7.2}
+\subfile{SECTIONS/720BVPGREEN/bvpgreen.tex}
+\textcolor{red}{gjøre oppgaven: Formulate the bvp for the green function G, where ... in this formulation, formulate field equation, bc at free surcase, at x-pm-infty and y- -infty}
 
-\section{7. 3}
-%\subfile{SECTIONS/730_40INTEGRAL/integral.tex}
+\section{7.3}
+\subfile{SECTIONS/730GREENINTEGRAL/greenintegral.tex}
+\textcolor{red}{gjøre oppgaven 7.3 : use greens theorem to derive an integral eq for the hiv prob w/ free surface.}
 
-\section{7. 5. 1}
-%\subfile{SECTIONS/751LAGBOKS/lagboks.tex}
+\section{7.4 - Integrallikningen} %ferdig
+\subfile{SECTIONS/740INTEGRAL/integral.tex}
 
-\section{7.5.2 - Løs integrallikningen med kjente variabler}
-%\subfile{SECTIONS/752SOLVE/solve.tex}
+\section{7.5.1} %ferdi
+\subfile{SECTIONS/751LAGBOKS/lagboks.tex}
+
+\section{7.5.2 - Løsning av integrallikningen med kjente variabler}
+\subfile{SECTIONS/752SOLVE/solve.tex}
+\textcolor{red}{matlab, bruke rett oppløsning, og kd=1.2 el 0.9}
 
 \section{7.5.3 - Solution of the heave problem}
-%\subfile{SECTIONS/753SOLUTION/753solution.tex}
+\subfile{SECTIONS/753SOLUTION/753solution.tex}
 
-\section{7.6 - Far field behaviour of phi 2}
-%\subfile{SECTIONS/760FARFIELD/farfield.tex}
-\textcolor{red}{arbeid gjenstår: løse. rename 143 til min fra section 730-40. Taste inn (103)? og vise tydeligere overgang}
+\section{7.6 - Far field behaviour of $\phi_2$}
+\subfile{SECTIONS/760FARFIELD/farfield.tex}
+\textcolor{red}{arbeid gjenstår: løse.Taste inn (103)? og vise tydeligere overgang}
 
 \section{7.7 Utgående bølgeamplitude}
-%\subfile{SECTIONS/770AMPLITUDENUTOVER/amplitudenutover.tex}
+\subfile{SECTIONS/770AMPLITUDENUTOVER/amplitudenutover.tex}
 \textcolor{red}{se over hva i denne 7.7 oppgaven som samsvarer med neste 7.8}
 
 \section{7.8 Added mass}
-%\subfile{SECTIONS/780ADDEDMASS/addedmass.tex}
-\textcolor{red}{fikse addert masse for alle 4 boksene. fikse b22}
+\subfile{SECTIONS/780ADDEDMASS/addedmass.tex}
+\textcolor{red}{se over på nytt}
 
+\section{7.9 Approximate solution}
+\subfile{SECTIONS/790NEWMAN/newman.tex}
+\textcolor{red}{løse}
+ 
+ % - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - %
+ 
 \section{7.10 Diffraksjonsproblemet}
 %\subfile{SECTIONS/7101DIFFRAKSJON/7101diffraksjon.tex}
 
 \section{7.10.1 Exciting force}
-\subfile{SECTIONS/7101EXCITING/7101exciting.tex}
+%\subfile{SECTIONS/7101EXCITING/7101exciting.tex}
 \textcolor{red}{task: obtain numerically the excinting force. }
 
 \section{7.10.2 Haskind relations}
-\subfile{SECTIONS/7102HASKIND/7102haskind.tex}
-\textcolor{red}{fortsett å skrive av og så er oppgaven å VISE AT X2/rhog = i A2-infty. Så ber oppgaven om å KALKULERE eksitasjonskraften X2/rhog  for de 3/4 seksjonene ved bruk av 155, 158 og v2 162}
+%\subfile{SECTIONS/7102HASKIND/7102haskind.tex}
+\textcolor{red}{fortsett å skrive av og så er oppgaven å VISE AT X2/rhog = i A2-infty. Så ber oppgaven om å KALKULERE eksitasjonskraften X2/rhog  for de 4 seksjonene ved bruk av 155, 158 og v2 162}
+
+\section{7.11 Body response in heave}
+%\subfile{SECTIONS/7110BODYRESPONSE/7110bodyresponse.tex}
+\textcolor{red}{se over om jeg har formulert likningen. legge til mange flere steg fra kladdeboken?}
+
+\section{7.11.1 Body response in heave}
+%\subfile{SECTIONS/7111RESONANCE/7111resonance.tex}
+\textcolor{red}{task: sjølkoding?}
+
+\section{7.11.2-3-4 Response as function of frequency}
+%\subfile{SECTIONS/7112RESONANCEPLOT/7112resonanceplot.tex}
+\textcolor{red}{task:  plot xi/A  }
+\textcolor{red}{task:  include in the plots the response by FK.. .. }
+\textcolor{red}{task:  use the approximate method w a22 included in calculation.. }
+
+\section{7.12 write a conclusion }
+%\subfile{SECTIONS/7120CONCLUSION/7120conclusion.tex}
+\textcolor{red}{task: Write down in 10 main points, A) what you have done, B) what you have found, and C) the main perspectives of this kind of analysis (the main conclusions) regarding the force and response calculations of the heave problem. }
+
 
 \section{Kladd}
 %\subfile{SECTIONS/KLADD/kladd.tex}

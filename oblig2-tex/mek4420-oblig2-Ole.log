@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.21)  22 MAR 2025 13:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.21)  26 MAR 2025 11:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1721,27 +1721,27 @@ Package biblatex Warning: Patching footnotes failed.
 (./mek4420-oblig2-Ole.aux)
 \openout1 = `mek4420-oblig2-Ole.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Info: Redefining \th on input line 40.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Info: Redefining \th on input line 45.
 
 (/usr/local/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -1848,26 +1848,26 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'mek4420-oblig2-Ole.bbl' not found.
 
 No file mek4420-oblig2-Ole.bbl.
-Package biblatex Info: Reference section=0 on input line 40.
-Package biblatex Info: Reference segment=0 on input line 40.
-Package hyperref Info: Link coloring ON on input line 40.
+Package biblatex Info: Reference section=0 on input line 45.
+Package biblatex Info: Reference segment=0 on input line 45.
+Package hyperref Info: Link coloring ON on input line 45.
 (./mek4420-oblig2-Ole.out) (./mek4420-oblig2-Ole.out)
 \@outlinefile=\write6
 \openout6 = `mek4420-oblig2-Ole.out'.
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 40.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 45.
 
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 40.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 45.
 
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 40
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 45
 .
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/jknapltx/ursfs.fd
@@ -1878,7 +1878,7 @@ File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 \c@tabularnotes*i=\count562
 \enitdp@tabularnotes*=\count563
 
-Package chemgreek Info: Activating mapping `default' on line 40.
+Package chemgreek Info: Activating mapping `default' on line 45.
 
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/translations/translations-basic-d
@@ -1887,15 +1887,272 @@ File: translations-basic-dictionary-english.trsl (english translation file `tra
 nslations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' f
-or `english'. on input line 40.
+or `english'. on input line 45.
 Package translations Info: no dictionary file `translations-basic-dictionary-ru
-ssian.trsl' found. on input line 40.
- (./SECTIONS/7101EXCITING/7101exciting.tex)
-(./SECTIONS/7102HASKIND/7102haskind.tex) [1{/usr/local/texlive/2023/texmf-var/f
-onts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2023/texmf-dist/fonts/enc
-/dvips/cm-super/cm-super-t2a.enc}
+ssian.trsl' found. on input line 45.
+ (./SECTIONS/710BVP/bvp.tex)
+(./SECTIONS/720BVPGREEN/bvpgreen.tex)
+(./SECTIONS/730GREENINTEGRAL/greenintegral.tex)
+(./SECTIONS/740INTEGRAL/integral.tex) [1{/usr/local/texlive/2023/texmf-var/font
+s/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dv
+ips/cm-super/cm-super-t2a.enc}
 
-] [2]
+] (./SECTIONS/751LAGBOKS/lagboks.tex
+</Users/ole/Tex/MEK4420/oblig2images/boxes_1.png, id=123, 562.2606pt x 421.575p
+t>
+File: /Users/ole/Tex/MEK4420/oblig2images/boxes_1.png Graphic file (type png)
+<use /Users/ole/Tex/MEK4420/oblig2images/boxes_1.png>
+Package pdftex.def Info: /Users/ole/Tex/MEK4420/oblig2images/boxes_1.png  used 
+on input line 6.
+(pdftex.def)             Requested size: 203.83417pt x 152.82828pt.
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 7.
+See the caption package documentation for explanation.
+
+</Users/ole/Tex/MEK4420/oblig2images/boxes_2.png, id=124, 562.2606pt x 421.575p
+t>
+File: /Users/ole/Tex/MEK4420/oblig2images/boxes_2.png Graphic file (type png)
+<use /Users/ole/Tex/MEK4420/oblig2images/boxes_2.png>
+Package pdftex.def Info: /Users/ole/Tex/MEK4420/oblig2images/boxes_2.png  used 
+on input line 11.
+(pdftex.def)             Requested size: 203.83417pt x 152.82828pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 12.
+See the caption package documentation for explanation.
+
+</Users/ole/Tex/MEK4420/oblig2images/boxes_3.png, id=125, 562.2606pt x 421.575p
+t>
+File: /Users/ole/Tex/MEK4420/oblig2images/boxes_3.png Graphic file (type png)
+<use /Users/ole/Tex/MEK4420/oblig2images/boxes_3.png>
+Package pdftex.def Info: /Users/ole/Tex/MEK4420/oblig2images/boxes_3.png  used 
+on input line 19.
+(pdftex.def)             Requested size: 203.83417pt x 152.82828pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 20.
+See the caption package documentation for explanation.
+
+</Users/ole/Tex/MEK4420/oblig2images/boxes_4.png, id=126, 562.2606pt x 421.575p
+t>
+File: /Users/ole/Tex/MEK4420/oblig2images/boxes_4.png Graphic file (type png)
+<use /Users/ole/Tex/MEK4420/oblig2images/boxes_4.png>
+Package pdftex.def Info: /Users/ole/Tex/MEK4420/oblig2images/boxes_4.png  used 
+on input line 24.
+(pdftex.def)             Requested size: 203.83417pt x 152.82828pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 25.
+See the caption package documentation for explanation.
+
+) (./SECTIONS/752SOLVE/solve.tex [2 </Users/ole/Tex/MEK4420/oblig2images/boxes_
+1.png (PNG copy)> </Users/ole/Tex/MEK4420/oblig2images/boxes_2.png (PNG copy)> 
+</Users/ole/Tex/MEK4420/oblig2images/boxes_3.png (PNG copy)> </Users/ole/Tex/ME
+K4420/oblig2images/boxes_4.png (PNG copy)>]
+LaTeX Font Info:    Trying to load font information for T2A+cmss on input line 
+10.
+
+(/usr/local/texlive/2023/texmf-dist/tex/latex/cyrillic/t2acmss.fd
+File: t2acmss.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)
+</Users/ole/Tex/MEK4420/oblig2images/plot_1_LD_1-10xres.png, id=143, 562.2606pt
+ x 421.575pt>
+File: /Users/ole/Tex/MEK4420/oblig2images/plot_1_LD_1-10xres.png Graphic file (
+type png)
+<use /Users/ole/Tex/MEK4420/oblig2images/plot_1_LD_1-10xres.png>
+Package pdftex.def Info: /Users/ole/Tex/MEK4420/oblig2images/plot_1_LD_1-10xres
+.png  used on input line 38.
+(pdftex.def)             Requested size: 203.83417pt x 152.82828pt.
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 39.
+See the caption package documentation for explanation.
+
+</Users/ole/Tex/MEK4420/oblig2images/plot_2_LD_2-10xres.png, id=144, 562.2606pt
+ x 421.575pt>
+File: /Users/ole/Tex/MEK4420/oblig2images/plot_2_LD_2-10xres.png Graphic file (
+type png)
+<use /Users/ole/Tex/MEK4420/oblig2images/plot_2_LD_2-10xres.png>
+Package pdftex.def Info: /Users/ole/Tex/MEK4420/oblig2images/plot_2_LD_2-10xres
+.png  used on input line 43.
+(pdftex.def)             Requested size: 203.83417pt x 152.82828pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 44.
+See the caption package documentation for explanation.
+
+</Users/ole/Tex/MEK4420/oblig2images/plot_3_LD_3-10xres.png, id=145, 562.2606pt
+ x 421.575pt>
+File: /Users/ole/Tex/MEK4420/oblig2images/plot_3_LD_3-10xres.png Graphic file (
+type png)
+<use /Users/ole/Tex/MEK4420/oblig2images/plot_3_LD_3-10xres.png>
+Package pdftex.def Info: /Users/ole/Tex/MEK4420/oblig2images/plot_3_LD_3-10xres
+.png  used on input line 51.
+(pdftex.def)             Requested size: 203.83417pt x 152.82828pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 52.
+See the caption package documentation for explanation.
+
+</Users/ole/Tex/MEK4420/oblig2images/plot_4_LD_4-10xres.png, id=146, 562.2606pt
+ x 421.575pt>
+File: /Users/ole/Tex/MEK4420/oblig2images/plot_4_LD_4-10xres.png Graphic file (
+type png)
+<use /Users/ole/Tex/MEK4420/oblig2images/plot_4_LD_4-10xres.png>
+Package pdftex.def Info: /Users/ole/Tex/MEK4420/oblig2images/plot_4_LD_4-10xres
+.png  used on input line 56.
+(pdftex.def)             Requested size: 203.83417pt x 152.82828pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 57.
+See the caption package documentation for explanation.
+
+) [3 </Users/ole/Tex/MEK4420/oblig2images/plot_1_LD_1-10xres.png (PNG copy)> </
+Users/ole/Tex/MEK4420/oblig2images/plot_2_LD_2-10xres.png (PNG copy)>]
+(./SECTIONS/753SOLUTION/753solution.tex
+</Users/ole/Tex/MEK4420/oblig2images/plot_phi2_1.png, id=164, 422.0568pt x 316.
+5426pt>
+File: /Users/ole/Tex/MEK4420/oblig2images/plot_phi2_1.png Graphic file (type pn
+g)
+<use /Users/ole/Tex/MEK4420/oblig2images/plot_phi2_1.png>
+Package pdftex.def Info: /Users/ole/Tex/MEK4420/oblig2images/plot_phi2_1.png  u
+sed on input line 4.
+(pdftex.def)             Requested size: 203.83417pt x 152.87575pt.
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 5.
+See the caption package documentation for explanation.
+
+</Users/ole/Tex/MEK4420/oblig2images/plot_phi2_2.png, id=165, 422.0568pt x 316.
+5426pt>
+File: /Users/ole/Tex/MEK4420/oblig2images/plot_phi2_2.png Graphic file (type pn
+g)
+<use /Users/ole/Tex/MEK4420/oblig2images/plot_phi2_2.png>
+Package pdftex.def Info: /Users/ole/Tex/MEK4420/oblig2images/plot_phi2_2.png  u
+sed on input line 9.
+(pdftex.def)             Requested size: 203.83417pt x 152.87575pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 10.
+See the caption package documentation for explanation.
+
+
+Overfull \hbox (49.35115pt too wide) in paragraph at lines 1--12
+\T2A/cmr/m/n/10 er sym-metrisk. []   [] 
+ []
+
+</Users/ole/Tex/MEK4420/oblig2images/plot_phi2_3.png, id=166, 422.0568pt x 316.
+5426pt>
+File: /Users/ole/Tex/MEK4420/oblig2images/plot_phi2_3.png Graphic file (type pn
+g)
+<use /Users/ole/Tex/MEK4420/oblig2images/plot_phi2_3.png>
+Package pdftex.def Info: /Users/ole/Tex/MEK4420/oblig2images/plot_phi2_3.png  u
+sed on input line 17.
+(pdftex.def)             Requested size: 203.83417pt x 152.87575pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 18.
+See the caption package documentation for explanation.
+
+</Users/ole/Tex/MEK4420/oblig2images/plot_phi2_4.png, id=167, 422.0568pt x 316.
+5426pt>
+File: /Users/ole/Tex/MEK4420/oblig2images/plot_phi2_4.png Graphic file (type pn
+g)
+<use /Users/ole/Tex/MEK4420/oblig2images/plot_phi2_4.png>
+Package pdftex.def Info: /Users/ole/Tex/MEK4420/oblig2images/plot_phi2_4.png  u
+sed on input line 22.
+(pdftex.def)             Requested size: 203.83417pt x 152.87575pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 23.
+See the caption package documentation for explanation.
+
+)
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 76.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\phi' on input line 76.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 76.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 76.
+
+(./SECTIONS/760FARFIELD/farfield.tex [4 </Users/ole/Tex/MEK4420/oblig2images/pl
+ot_3_LD_3-10xres.png (PNG copy)> </Users/ole/Tex/MEK4420/oblig2images/plot_4_LD
+_4-10xres.png (PNG copy)> </Users/ole/Tex/MEK4420/oblig2images/plot_phi2_1.png 
+(PNG copy)> </Users/ole/Tex/MEK4420/oblig2images/plot_phi2_2.png (PNG copy)> </
+Users/ole/Tex/MEK4420/oblig2images/plot_phi2_3.png (PNG copy)> </Users/ole/Tex/
+MEK4420/oblig2images/plot_phi2_4.png (PNG copy)>])
+(./SECTIONS/770AMPLITUDENUTOVER/amplitudenutover.tex)
+(./SECTIONS/780ADDEDMASS/addedmass.tex [5]
+</Users/ole/Tex/MEK4420/oblig2images/plot_a22b22_1.png, id=203, 422.0568pt x 31
+6.5426pt>
+File: /Users/ole/Tex/MEK4420/oblig2images/plot_a22b22_1.png Graphic file (type 
+png)
+<use /Users/ole/Tex/MEK4420/oblig2images/plot_a22b22_1.png>
+Package pdftex.def Info: /Users/ole/Tex/MEK4420/oblig2images/plot_a22b22_1.png 
+ used on input line 31.
+(pdftex.def)             Requested size: 203.83417pt x 152.87575pt.
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 32.
+See the caption package documentation for explanation.
+
+</Users/ole/Tex/MEK4420/oblig2images/plot_a22b22_2.png, id=204, 422.0568pt x 31
+6.5426pt>
+File: /Users/ole/Tex/MEK4420/oblig2images/plot_a22b22_2.png Graphic file (type 
+png)
+<use /Users/ole/Tex/MEK4420/oblig2images/plot_a22b22_2.png>
+Package pdftex.def Info: /Users/ole/Tex/MEK4420/oblig2images/plot_a22b22_2.png 
+ used on input line 36.
+(pdftex.def)             Requested size: 203.83417pt x 152.87575pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 37.
+See the caption package documentation for explanation.
+
+</Users/ole/Tex/MEK4420/oblig2images/plot_a22b22_3.png, id=205, 422.0568pt x 31
+6.5426pt>
+File: /Users/ole/Tex/MEK4420/oblig2images/plot_a22b22_3.png Graphic file (type 
+png)
+<use /Users/ole/Tex/MEK4420/oblig2images/plot_a22b22_3.png>
+Package pdftex.def Info: /Users/ole/Tex/MEK4420/oblig2images/plot_a22b22_3.png 
+ used on input line 44.
+(pdftex.def)             Requested size: 203.83417pt x 152.87575pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 45.
+See the caption package documentation for explanation.
+
+</Users/ole/Tex/MEK4420/oblig2images/plot_a22b22_4.png, id=206, 422.0568pt x 31
+6.5426pt>
+File: /Users/ole/Tex/MEK4420/oblig2images/plot_a22b22_4.png Graphic file (type 
+png)
+<use /Users/ole/Tex/MEK4420/oblig2images/plot_a22b22_4.png>
+Package pdftex.def Info: /Users/ole/Tex/MEK4420/oblig2images/plot_a22b22_4.png 
+ used on input line 49.
+(pdftex.def)             Requested size: 203.83417pt x 152.87575pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 50.
+See the caption package documentation for explanation.
+
+) (./SECTIONS/790NEWMAN/newman.tex) [6 </Users/ole/Tex/MEK4420/oblig2images/plo
+t_a22b22_1.png (PNG copy)> </Users/ole/Tex/MEK4420/oblig2images/plot_a22b22_2.p
+ng (PNG copy)> </Users/ole/Tex/MEK4420/oblig2images/plot_a22b22_3.png (PNG copy
+)> </Users/ole/Tex/MEK4420/oblig2images/plot_a22b22_4.png (PNG copy)>] [7]
 
 enddocument/afterlastpage: lastpage setting LastPage.
 (./mek4420-oblig2-Ole.aux)
@@ -1905,40 +2162,48 @@ Package rerunfilecheck Warning: File `mek4420-oblig2-Ole.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `mek4420-oblig2-Ole.out':
-(rerunfilecheck)             Before: 865D442CB6436E8A23A61C9FFD12ECE8;1995
-(rerunfilecheck)             After:  D1ABDFFA9388F38386508AE0D29B487C;2167.
+(rerunfilecheck)             Before: 099A50204C91603E600E0158ADAB53A1;3631
+(rerunfilecheck)             After:  8717B69C0EE4E3D7BD7C299D548F6963;3803.
 Package logreq Info: Writing requests to 'mek4420-oblig2-Ole.run.xml'.
 \openout1 = `mek4420-oblig2-Ole.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 46556 strings out of 476025
- 970680 string characters out of 5790017
- 1864388 words of memory out of 5000000
- 66298 multiletter control sequences out of 15000+600000
- 533664 words of font info for 93 fonts, out of 8000000 for 9000
+ 46864 strings out of 476025
+ 980612 string characters out of 5790017
+ 1883388 words of memory out of 5000000
+ 66470 multiletter control sequences out of 15000+600000
+ 541236 words of font info for 109 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 92i,11n,94p,999b,1777s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 92i,19n,94p,999b,1777s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 ></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb>
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
-/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></u
-sr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr
-/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/l
-ocal/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/loca
-l/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local
-/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/t
-exlive/2023/texmf-dist/fonts/type1/public/cm-super/sfcc1200.pfb></usr/local/tex
-live/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texli
-ve/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive
-/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/local/texlive/2
-023/texmf-dist/fonts/type1/public/cm-super/sfsl1000.pfb></usr/local/texlive/202
-3/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb></usr/local/texlive/2023/
-texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
-Output written on mek4420-oblig2-Ole.pdf (2 pages, 191932 bytes).
+/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></
+usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></us
+r/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/
+local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/lo
+cal/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local
+/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/te
+xlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/local/tex
+live/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texl
+ive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/local/texliv
+e/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/
+2023/texmf-dist/fonts/type1/public/amsfonts/latxfont/line10.pfb></usr/local/tex
+live/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texli
+ve/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive
+/2023/texmf-dist/fonts/type1/public/cm-super/sfcc1200.pfb></usr/local/texlive/2
+023/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/202
+3/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2023/
+texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/local/texlive/2023/te
+xmf-dist/fonts/type1/public/cm-super/sfsl1000.pfb></usr/local/texlive/2023/texm
+f-dist/fonts/type1/public/cm-super/sfss0700.pfb></usr/local/texlive/2023/texmf-
+dist/fonts/type1/public/cm-super/sfti1000.pfb></usr/local/texlive/2023/texmf-di
+st/fonts/type1/public/cm-super/sfti1200.pfb>
+Output written on mek4420-oblig2-Ole.pdf (7 pages, 824146 bytes).
 PDF statistics:
- 168 PDF objects out of 1000 (max. 8388607)
- 130 compressed objects within 2 object streams
- 20 named destinations out of 1000 (max. 500000)
- 125 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 345 PDF objects out of 1000 (max. 8388607)
+ 269 compressed objects within 3 object streams
+ 79 named destinations out of 1000 (max. 500000)
+ 269 words of extra memory for PDF output out of 10000 (max. 10000000)
 
