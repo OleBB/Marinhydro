@@ -1,0 +1,8 @@
+\documentclass{beamer}
+\begin{document}
+\begin{frame}{Hello World}
+    \begin{align}
+        A_2^{\pm \infty} =  \mathrm{i} \int_{S_B}   \bigg[ \phi_2  \Big(  n_1 \frac{\partial }{\partial x}  +  n_2\frac{\partial }{\partial y} \Big) - n_2 \bigg]  e^{K (\bar{y} \pm \mathrm)}
+    \end{align}
+\end{frame}
+\end{document}

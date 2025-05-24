@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.21)  25 FEB 2025 12:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.21)  8 APR 2025 12:31
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -382,24 +382,24 @@ Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
 (./mek4420-oblig1-Ole.aux)
 \openout1 = `mek4420-oblig1-Ole.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -457,7 +457,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package hyperref Info: Link coloring ON on input line 21.
+Package hyperref Info: Link coloring ON on input line 23.
 
 (./mek4420-oblig1-Ole.out) (./mek4420-oblig1-Ole.out)
 \@outlinefile=\write3
@@ -465,13 +465,13 @@ Package hyperref Info: Link coloring ON on input line 21.
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 23.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 25.
 
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 23.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 25.
 
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
@@ -481,183 +481,185 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \tf@toc=\write4
 \openout4 = `mek4420-oblig1-Ole.toc'.
 
-</Users/ole/Tex/MEK4420/oblig1images/m11_sirkel.png, id=29, 562.2606pt x 421.57
+</Users/ole/Tex/MEK4420/oblig1images/m11_sirkel.png, id=39, 562.2606pt x 421.57
 5pt>
 File: /Users/ole/Tex/MEK4420/oblig1images/m11_sirkel.png Graphic file (type png
 )
 <use /Users/ole/Tex/MEK4420/oblig1images/m11_sirkel.png>
 Package pdftex.def Info: /Users/ole/Tex/MEK4420/oblig1images/m11_sirkel.png  us
-ed on input line 61.
-(pdftex.def)             Requested size: 426.79135pt x 320.0015pt.
+ed on input line 50.
+(pdftex.def)             Requested size: 341.43437pt x 256.00247pt.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 62.
+(caption)                particular \caption on input line 51.
 See the caption package documentation for explanation.
 
 [1
 
 {/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-</Users/ole/Tex/MEK4420/oblig1images/potensialer_sirkel.png, id=51, 562.2606pt 
+</Users/ole/Tex/MEK4420/oblig1images/potensialer_sirkel.png, id=59, 562.2606pt 
 x 421.575pt>
 File: /Users/ole/Tex/MEK4420/oblig1images/potensialer_sirkel.png Graphic file (
 type png)
 <use /Users/ole/Tex/MEK4420/oblig1images/potensialer_sirkel.png>
 Package pdftex.def Info: /Users/ole/Tex/MEK4420/oblig1images/potensialer_sirkel
-.png  used on input line 64.
-(pdftex.def)             Requested size: 426.79135pt x 320.0015pt.
+.png  used on input line 53.
+(pdftex.def)             Requested size: 341.43437pt x 256.00247pt.
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 54.
+See the caption package documentation for explanation.
+
+</Users/ole/Tex/MEK4420/oblig1images/m11_ellipse.png, id=60, 562.2606pt x 421.5
+75pt>
+File: /Users/ole/Tex/MEK4420/oblig1images/m11_ellipse.png Graphic file (type pn
+g)
+<use /Users/ole/Tex/MEK4420/oblig1images/m11_ellipse.png>
+Package pdftex.def Info: /Users/ole/Tex/MEK4420/oblig1images/m11_ellipse.png  u
+sed on input line 61.
+(pdftex.def)             Requested size: 341.43437pt x 256.00247pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 62.
+See the caption package documentation for explanation.
+
+[2 </Users/ole/Tex/MEK4420/oblig1images/m11_sirkel.png (PNG copy)> </Users/ole/
+Tex/MEK4420/oblig1images/potensialer_sirkel.png (PNG copy)>]
+</Users/ole/Tex/MEK4420/oblig1images/potensialer_ellipse.png, id=67, 562.2606pt
+ x 421.575pt>
+File: /Users/ole/Tex/MEK4420/oblig1images/potensialer_ellipse.png Graphic file 
+(type png)
+<use /Users/ole/Tex/MEK4420/oblig1images/potensialer_ellipse.png>
+Package pdftex.def Info: /Users/ole/Tex/MEK4420/oblig1images/potensialer_ellips
+e.png  used on input line 64.
+(pdftex.def)             Requested size: 341.43437pt x 256.00247pt.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 65.
 See the caption package documentation for explanation.
 
-</Users/ole/Tex/MEK4420/oblig1images/m11_ellipse.png, id=52, 562.2606pt x 421.5
-75pt>
-File: /Users/ole/Tex/MEK4420/oblig1images/m11_ellipse.png Graphic file (type pn
-g)
-<use /Users/ole/Tex/MEK4420/oblig1images/m11_ellipse.png>
-Package pdftex.def Info: /Users/ole/Tex/MEK4420/oblig1images/m11_ellipse.png  u
-sed on input line 73.
-(pdftex.def)             Requested size: 426.79135pt x 320.0015pt.
-
-Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 74.
-See the caption package documentation for explanation.
-
-[2 </Users/ole/Tex/MEK4420/oblig1images/m11_sirkel.png (PNG copy)> </Users/ole/
-Tex/MEK4420/oblig1images/potensialer_sirkel.png (PNG copy)>]
-</Users/ole/Tex/MEK4420/oblig1images/potensialer_ellipse.png, id=59, 562.2606pt
- x 421.575pt>
-File: /Users/ole/Tex/MEK4420/oblig1images/potensialer_ellipse.png Graphic file 
-(type png)
-<use /Users/ole/Tex/MEK4420/oblig1images/potensialer_ellipse.png>
-Package pdftex.def Info: /Users/ole/Tex/MEK4420/oblig1images/potensialer_ellips
-e.png  used on input line 76.
-(pdftex.def)             Requested size: 426.79135pt x 320.0015pt.
-
-
-Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 77.
-See the caption package documentation for explanation.
-
-</Users/ole/Tex/MEK4420/oblig1images/m11_2ellipse.png, id=60, 562.2606pt x 421.
+</Users/ole/Tex/MEK4420/oblig1images/m11_2ellipse.png, id=68, 562.2606pt x 421.
 575pt>
 File: /Users/ole/Tex/MEK4420/oblig1images/m11_2ellipse.png Graphic file (type p
 ng)
 <use /Users/ole/Tex/MEK4420/oblig1images/m11_2ellipse.png>
 Package pdftex.def Info: /Users/ole/Tex/MEK4420/oblig1images/m11_2ellipse.png  
-used on input line 82.
-(pdftex.def)             Requested size: 426.79135pt x 320.0015pt.
+used on input line 70.
+(pdftex.def)             Requested size: 341.43437pt x 256.00247pt.
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 83.
+(caption)                particular \caption on input line 71.
 See the caption package documentation for explanation.
 
 [3 </Users/ole/Tex/MEK4420/oblig1images/m11_ellipse.png (PNG copy)> </Users/ole
 /Tex/MEK4420/oblig1images/potensialer_ellipse.png (PNG copy)>]
-</Users/ole/Tex/MEK4420/oblig1images/potensialer_2ellipse.png, id=67, 562.2606p
+</Users/ole/Tex/MEK4420/oblig1images/potensialer_2ellipse.png, id=75, 562.2606p
 t x 421.575pt>
 File: /Users/ole/Tex/MEK4420/oblig1images/potensialer_2ellipse.png Graphic file
  (type png)
 <use /Users/ole/Tex/MEK4420/oblig1images/potensialer_2ellipse.png>
 Package pdftex.def Info: /Users/ole/Tex/MEK4420/oblig1images/potensialer_2ellip
-se.png  used on input line 85.
-(pdftex.def)             Requested size: 426.79135pt x 320.0015pt.
+se.png  used on input line 73.
+(pdftex.def)             Requested size: 341.43437pt x 256.00247pt.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 86.
+(caption)                particular \caption on input line 74.
 See the caption package documentation for explanation.
 
-</Users/ole/Tex/MEK4420/oblig1images/diskretisering_ellipse.png, id=68, 562.260
+</Users/ole/Tex/MEK4420/oblig1images/diskretisering_ellipse.png, id=76, 562.260
 6pt x 421.575pt>
 File: /Users/ole/Tex/MEK4420/oblig1images/diskretisering_ellipse.png Graphic fi
 le (type png)
 <use /Users/ole/Tex/MEK4420/oblig1images/diskretisering_ellipse.png>
 Package pdftex.def Info: /Users/ole/Tex/MEK4420/oblig1images/diskretisering_ell
-ipse.png  used on input line 90.
-(pdftex.def)             Requested size: 426.79135pt x 320.0015pt.
+ipse.png  used on input line 80.
+(pdftex.def)             Requested size: 341.43437pt x 256.00247pt.
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 91.
+(caption)                particular \caption on input line 81.
 See the caption package documentation for explanation.
 
 [4 </Users/ole/Tex/MEK4420/oblig1images/m11_2ellipse.png (PNG copy)> </Users/ol
 e/Tex/MEK4420/oblig1images/potensialer_2ellipse.png (PNG copy)>]
-</Users/ole/Tex/MEK4420/oblig1images/diskretisering_2ellipse.png, id=75, 562.26
+</Users/ole/Tex/MEK4420/oblig1images/diskretisering_2ellipse.png, id=83, 562.26
 06pt x 421.575pt>
 File: /Users/ole/Tex/MEK4420/oblig1images/diskretisering_2ellipse.png Graphic f
 ile (type png)
 <use /Users/ole/Tex/MEK4420/oblig1images/diskretisering_2ellipse.png>
 Package pdftex.def Info: /Users/ole/Tex/MEK4420/oblig1images/diskretisering_2el
-lipse.png  used on input line 93.
-(pdftex.def)             Requested size: 426.79135pt x 320.0015pt.
+lipse.png  used on input line 83.
+(pdftex.def)             Requested size: 341.43437pt x 256.00247pt.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 94.
+(caption)                particular \caption on input line 84.
 See the caption package documentation for explanation.
 
-</Users/ole/Tex/MEK4420/oblig1images/m11_kvadrat.png, id=76, 562.2606pt x 421.5
+</Users/ole/Tex/MEK4420/oblig1images/m11_kvadrat.png, id=84, 562.2606pt x 421.5
 75pt>
 File: /Users/ole/Tex/MEK4420/oblig1images/m11_kvadrat.png Graphic file (type pn
 g)
 <use /Users/ole/Tex/MEK4420/oblig1images/m11_kvadrat.png>
 Package pdftex.def Info: /Users/ole/Tex/MEK4420/oblig1images/m11_kvadrat.png  u
-sed on input line 100.
-(pdftex.def)             Requested size: 426.79135pt x 320.0015pt.
+sed on input line 90.
+(pdftex.def)             Requested size: 341.43437pt x 256.00247pt.
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 101.
+(caption)                particular \caption on input line 91.
 See the caption package documentation for explanation.
 
 [5 </Users/ole/Tex/MEK4420/oblig1images/diskretisering_ellipse.png (PNG copy)> 
 </Users/ole/Tex/MEK4420/oblig1images/diskretisering_2ellipse.png (PNG copy)>]
-</Users/ole/Tex/MEK4420/oblig1images/potensialer_kvadrat.png, id=83, 562.2606pt
+Underfull \hbox (badness 4341) in paragraph at lines 91--91
+[]\OT1/cmr/m/n/10 Figure 9: |[]P^^Wa kvadratet har det blitt brukt ett hakk fle
+re N. Verdier for N =
+ []
+
+</Users/ole/Tex/MEK4420/oblig1images/potensialer_kvadrat.png, id=91, 562.2606pt
  x 421.575pt>
 File: /Users/ole/Tex/MEK4420/oblig1images/potensialer_kvadrat.png Graphic file 
 (type png)
 <use /Users/ole/Tex/MEK4420/oblig1images/potensialer_kvadrat.png>
 Package pdftex.def Info: /Users/ole/Tex/MEK4420/oblig1images/potensialer_kvadra
-t.png  used on input line 103.
-(pdftex.def)             Requested size: 426.79135pt x 320.0015pt.
-
+t.png  used on input line 93.
+(pdftex.def)             Requested size: 341.43437pt x 256.00247pt.
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 104.
+(caption)                particular \caption on input line 94.
 See the caption package documentation for explanation.
 
 [6 </Users/ole/Tex/MEK4420/oblig1images/m11_kvadrat.png (PNG copy)> </Users/ole
 /Tex/MEK4420/oblig1images/potensialer_kvadrat.png (PNG copy)>]
 (./mek4420-oblig1-Ole.aux)
 Package rerunfilecheck Info: File `mek4420-oblig1-Ole.out' has not changed.
-(rerunfilecheck)             Checksum: 0609F44C0565A1374EE08BBDC53E5D99;430.
+(rerunfilecheck)             Checksum: EA03D483D45152090FAC712CCEDDDAF2;1684.
  ) 
 Here is how much of TeX's memory you used:
  13314 strings out of 476025
- 220089 string characters out of 5790017
- 1860388 words of memory out of 5000000
+ 220103 string characters out of 5790017
+ 1861388 words of memory out of 5000000
  33556 multiletter control sequences out of 15000+600000
- 520757 words of font info for 65 fonts, out of 8000000 for 9000
+ 520150 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,6n,77p,301b,611s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,6n,77p,665b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
-</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></
-usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></u
-sr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></us
-r/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/
-local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/lo
-cal/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/loca
-l/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/
-texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/tex
-live/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texliv
-e/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on mek4420-oblig1-Ole.pdf (6 pages, 612670 bytes).
+</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><
+/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></
+usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></us
+r/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/
+local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/lo
+cal/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/loca
+l/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/t
+exlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on mek4420-oblig1-Ole.pdf (6 pages, 610440 bytes).
 PDF statistics:
  149 PDF objects out of 1000 (max. 8388607)
- 105 compressed objects within 2 object streams
- 26 named destinations out of 1000 (max. 500000)
- 91 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 109 compressed objects within 2 object streams
+ 28 named destinations out of 1000 (max. 500000)
+ 107 words of extra memory for PDF output out of 10000 (max. 10000000)
 

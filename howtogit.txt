@@ -1,0 +1,8 @@
+cd /path/to/your/repo
+git fetch
+git status   # to check for changes
+git pull     # or git merge origin/your-branch-name
+# Make your changes
+git add .
+git commit -m "Your commit message here"
+git push origin your-branch-name

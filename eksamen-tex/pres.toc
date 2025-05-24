@@ -1,0 +1,7 @@
+\beamer@sectionintoc {1}{I denne oppgaven ser vi på en flytende geometri i to dimensjoner. Vi regner først på kreftene fra en geometri i bevegelse til tillestående vann. Så regner vi på kreftene som mottas og reflekteres av en stillestående geometri. Vi undersøker resonans og repons i hiv. }{2}{0}{1}
+\beamer@sectionintoc {2}{Del 1 - Geometri som beveger seg i fluid}{3}{0}{2}
+\beamer@subsectionintoc {2}{1}{Randverdi i 2D}{3}{0}{2}
+\beamer@subsectionintoc {2}{2}{Sirkel}{4}{0}{2}
+\beamer@sectionintoc {3}{Del 2 - Krefter og respons i hiv}{15}{0}{3}
+\beamer@subsectionintoc {3}{1}{Randverdier}{15}{0}{3}
+\beamer@subsectionintoc {3}{2}{Diskretisering}{17}{0}{3}
