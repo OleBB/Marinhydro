@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.21)  24 MAY 2025 08:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.21)  28 MAY 2025 10:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -730,6 +730,10 @@ Package caption Info: hyperref package is loaded.
 Package caption Info: Hyperref support is turned off
 (caption)             because hyperref has stopped early.
 )
+(/usr/local/texlive/2023/texmf-dist/tex/latex/comment/comment.sty
+\CommentStream=\write5
+
+Excluding comment 'comment')
 (/usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamerthemeSingapore.sty
 (/usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamerouterthememiniframes
 .sty))
@@ -738,27 +742,40 @@ File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count336
 \l__pdf_internal_box=\box76
 )
-(./pres.aux)
+(./pres.aux
+
+LaTeX Warning: Label `fig:a22_1' multiply defined.
+
+
+LaTeX Warning: Label `fig:a22_2' multiply defined.
+
+
+LaTeX Warning: Label `fig:a22_3' multiply defined.
+
+
+LaTeX Warning: Label `fig:a22_4' multiply defined.
+
+)
 \openout1 = `pres.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -816,64 +833,64 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package hyperref Info: Link coloring OFF on input line 17.
+Package hyperref Info: Link coloring OFF on input line 18.
 
 (./pres.out) (./pres.out)
-\@outlinefile=\write5
-\openout5 = `pres.out'.
+\@outlinefile=\write6
+\openout6 = `pres.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 17.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 18.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 17.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 18.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 17.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 17.
+(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 18.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 18.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 17.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 18.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 17.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 17.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 18.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 18.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 17.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 18.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 17.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 17.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 18.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 18.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 17.
+(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 18.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 17.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 17.
+(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 18.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 18.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 17.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 18.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 17.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 18.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 17.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 18.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 17.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 18.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/b/n --> OT1/cmr/b/n on input line 17.
+(Font)                  OT1/cmss/b/n --> OT1/cmr/b/n on input line 18.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmss/b/n --> OT1/cmss/b/n on input line 17.
+(Font)                  OT1/cmss/b/n --> OT1/cmss/b/n on input line 18.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 17.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 18.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 17.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 18.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/b/n on input line 17.
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 17.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/b/n on input line 18.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 18.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
 (Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 1
-7.
+8.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/cmss/b/it --> OT1/mathkerncmss/m/sl on input line 1
-7.
+8.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on inp
-ut line 17.
+ut line 18.
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/translator/translator-basic-dicti
 onary-English.dict
@@ -907,365 +924,368 @@ ex.map}
 ] (./pres.toc) [2
 
 ]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 34.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 35.
 
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 34.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 35.
 
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on inp
-ut line 34.
+ut line 35.
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/ma
 thkerncmss.
 ) [3
 
+] [4
+
 ]
-</Users/ole/Tex/MEK4420/oblig1images/potensialer_sirkel.png, id=305, 562.2606pt
+</Users/ole/Tex/MEK4420/oblig1images/potensialer_sirkel.png, id=386, 562.2606pt
  x 421.575pt>
 File: /Users/ole/Tex/MEK4420/oblig1images/potensialer_sirkel.png Graphic file (
 type png)
 <use /Users/ole/Tex/MEK4420/oblig1images/potensialer_sirkel.png>
 Package pdftex.def Info: /Users/ole/Tex/MEK4420/oblig1images/potensialer_sirkel
-.png  used on input line 41.
+.png  used on input line 54.
 (pdftex.def)             Requested size: 245.83282pt x 184.32281pt.
- [4
+ [5
 
  </Users/ole/Tex/MEK4420/oblig1images/potensialer_sirkel.png (PNG copy)>]
-</Users/ole/Tex/MEK4420/oblig1images/m11_sirkel.png, id=364, 562.2606pt x 421.5
+</Users/ole/Tex/MEK4420/oblig1images/m11_sirkel.png, id=448, 562.2606pt x 421.5
 75pt>
 File: /Users/ole/Tex/MEK4420/oblig1images/m11_sirkel.png Graphic file (type png
 )
 <use /Users/ole/Tex/MEK4420/oblig1images/m11_sirkel.png>
 Package pdftex.def Info: /Users/ole/Tex/MEK4420/oblig1images/m11_sirkel.png  us
-ed on input line 48.
+ed on input line 59.
 (pdftex.def)             Requested size: 291.35739pt x 218.45476pt.
 
-Overfull \vbox (4.33154pt too high) detected at line 48
+Overfull \vbox (11.72955pt too high) detected at line 59
  []
 
-[5
+[6
 
  </Users/ole/Tex/MEK4420/oblig1images/m11_sirkel.png (PNG copy)>]
-</Users/ole/Tex/MEK4420/oblig1images/diskretisering_ellipse.png, id=424, 562.26
+</Users/ole/Tex/MEK4420/oblig1images/diskretisering_ellipse.png, id=509, 562.26
 06pt x 421.575pt>
 File: /Users/ole/Tex/MEK4420/oblig1images/diskretisering_ellipse.png Graphic fi
 le (type png)
 <use /Users/ole/Tex/MEK4420/oblig1images/diskretisering_ellipse.png>
 Package pdftex.def Info: /Users/ole/Tex/MEK4420/oblig1images/diskretisering_ell
-ipse.png  used on input line 54.
+ipse.png  used on input line 65.
 (pdftex.def)             Requested size: 245.83282pt x 184.32281pt.
- [6
+ [7
 
  </Users/ole/Tex/MEK4420/oblig1images/diskretisering_ellipse.png (PNG copy)>]
-</Users/ole/Tex/MEK4420/oblig1images/diskretisering_2ellipse.png, id=483, 562.2
+</Users/ole/Tex/MEK4420/oblig1images/diskretisering_2ellipse.png, id=572, 562.2
 606pt x 421.575pt>
 File: /Users/ole/Tex/MEK4420/oblig1images/diskretisering_2ellipse.png Graphic f
 ile (type png)
 <use /Users/ole/Tex/MEK4420/oblig1images/diskretisering_2ellipse.png>
 Package pdftex.def Info: /Users/ole/Tex/MEK4420/oblig1images/diskretisering_2el
-lipse.png  used on input line 58.
+lipse.png  used on input line 69.
 (pdftex.def)             Requested size: 245.83282pt x 184.32281pt.
- [7
+ [8
 
  </Users/ole/Tex/MEK4420/oblig1images/diskretisering_2ellipse.png (PNG copy)>]
-</Users/ole/Tex/MEK4420/oblig1images/potensialer_ellipse.png, id=544, 562.2606p
+</Users/ole/Tex/MEK4420/oblig1images/potensialer_ellipse.png, id=634, 562.2606p
 t x 421.575pt>
 File: /Users/ole/Tex/MEK4420/oblig1images/potensialer_ellipse.png Graphic file 
 (type png)
 <use /Users/ole/Tex/MEK4420/oblig1images/potensialer_ellipse.png>
 Package pdftex.def Info: /Users/ole/Tex/MEK4420/oblig1images/potensialer_ellips
-e.png  used on input line 63.
+e.png  used on input line 73.
 (pdftex.def)             Requested size: 245.83282pt x 184.32281pt.
- [8
+ [9
 
  </Users/ole/Tex/MEK4420/oblig1images/potensialer_ellipse.png (PNG copy)>]
-</Users/ole/Tex/MEK4420/oblig1images/potensialer_2ellipse.png, id=603, 562.2606
+</Users/ole/Tex/MEK4420/oblig1images/potensialer_2ellipse.png, id=695, 562.2606
 pt x 421.575pt>
 File: /Users/ole/Tex/MEK4420/oblig1images/potensialer_2ellipse.png Graphic file
  (type png)
 <use /Users/ole/Tex/MEK4420/oblig1images/potensialer_2ellipse.png>
 Package pdftex.def Info: /Users/ole/Tex/MEK4420/oblig1images/potensialer_2ellip
-se.png  used on input line 68.
+se.png  used on input line 77.
 (pdftex.def)             Requested size: 245.83282pt x 184.32281pt.
- [9
+ [10
 
  </Users/ole/Tex/MEK4420/oblig1images/potensialer_2ellipse.png (PNG copy)>]
-</Users/ole/Tex/MEK4420/oblig1images/m11_ellipse.png, id=663, 562.2606pt x 421.
+</Users/ole/Tex/MEK4420/oblig1images/m11_ellipse.png, id=757, 562.2606pt x 421.
 575pt>
 File: /Users/ole/Tex/MEK4420/oblig1images/m11_ellipse.png Graphic file (type pn
 g)
 <use /Users/ole/Tex/MEK4420/oblig1images/m11_ellipse.png>
 Package pdftex.def Info: /Users/ole/Tex/MEK4420/oblig1images/m11_ellipse.png  u
-sed on input line 75.
+sed on input line 83.
 (pdftex.def)             Requested size: 245.83282pt x 184.32281pt.
- [10
+ [11
 
  </Users/ole/Tex/MEK4420/oblig1images/m11_ellipse.png (PNG copy)>]
-</Users/ole/Tex/MEK4420/oblig1images/m11_2ellipse.png, id=723, 562.2606pt x 421
+</Users/ole/Tex/MEK4420/oblig1images/m11_2ellipse.png, id=818, 562.2606pt x 421
 .575pt>
 File: /Users/ole/Tex/MEK4420/oblig1images/m11_2ellipse.png Graphic file (type p
 ng)
 <use /Users/ole/Tex/MEK4420/oblig1images/m11_2ellipse.png>
 Package pdftex.def Info: /Users/ole/Tex/MEK4420/oblig1images/m11_2ellipse.png  
-used on input line 82.
+used on input line 89.
 (pdftex.def)             Requested size: 245.83282pt x 184.32281pt.
- [11
+ [12
 
  </Users/ole/Tex/MEK4420/oblig1images/m11_2ellipse.png (PNG copy)>]
-</Users/ole/Tex/MEK4420/oblig1images/potensialer_kvadrat.png, id=782, 562.2606p
+</Users/ole/Tex/MEK4420/oblig1images/potensialer_kvadrat.png, id=880, 562.2606p
 t x 421.575pt>
 File: /Users/ole/Tex/MEK4420/oblig1images/potensialer_kvadrat.png Graphic file 
 (type png)
 <use /Users/ole/Tex/MEK4420/oblig1images/potensialer_kvadrat.png>
 Package pdftex.def Info: /Users/ole/Tex/MEK4420/oblig1images/potensialer_kvadra
-t.png  used on input line 91.
+t.png  used on input line 99.
 (pdftex.def)             Requested size: 245.83282pt x 184.32281pt.
- [12
+ [13
 
  </Users/ole/Tex/MEK4420/oblig1images/potensialer_kvadrat.png (PNG copy)>]
-</Users/ole/Tex/MEK4420/oblig1images/m11_kvadrat.png, id=842, 562.2606pt x 421.
+</Users/ole/Tex/MEK4420/oblig1images/m11_kvadrat.png, id=943, 562.2606pt x 421.
 575pt>
 File: /Users/ole/Tex/MEK4420/oblig1images/m11_kvadrat.png Graphic file (type pn
 g)
 <use /Users/ole/Tex/MEK4420/oblig1images/m11_kvadrat.png>
 Package pdftex.def Info: /Users/ole/Tex/MEK4420/oblig1images/m11_kvadrat.png  u
-sed on input line 97.
+sed on input line 105.
 (pdftex.def)             Requested size: 245.83282pt x 184.32281pt.
- [13
+ [14
 
- </Users/ole/Tex/MEK4420/oblig1images/m11_kvadrat.png (PNG copy)>] [14
-
-] [15
+ </Users/ole/Tex/MEK4420/oblig1images/m11_kvadrat.png (PNG copy)>] [15
 
 ] [16
 
+] [17
+
 ]
-</Users/ole/Tex/MEK4420/oblig2images/boxes_1.png, id=1078, 562.2606pt x 421.575
+Overfull \hbox (1.09871pt too wide) detected at line 161
+[]
+ []
+
+[18
+
+]
+</Users/ole/Tex/MEK4420/oblig2images/boxes_1.png, id=1250, 562.2606pt x 421.575
 pt>
 File: /Users/ole/Tex/MEK4420/oblig2images/boxes_1.png Graphic file (type png)
 <use /Users/ole/Tex/MEK4420/oblig2images/boxes_1.png>
 Package pdftex.def Info: /Users/ole/Tex/MEK4420/oblig2images/boxes_1.png  used 
-on input line 157.
+on input line 189.
 (pdftex.def)             Requested size: 138.2795pt x 103.67595pt.
-</Users/ole/Tex/MEK4420/oblig2images/boxes_2.png, id=1079, 562.2606pt x 421.575
+</Users/ole/Tex/MEK4420/oblig2images/boxes_2.png, id=1251, 562.2606pt x 421.575
 pt>
 File: /Users/ole/Tex/MEK4420/oblig2images/boxes_2.png Graphic file (type png)
 <use /Users/ole/Tex/MEK4420/oblig2images/boxes_2.png>
 Package pdftex.def Info: /Users/ole/Tex/MEK4420/oblig2images/boxes_2.png  used 
-on input line 157.
+on input line 189.
 (pdftex.def)             Requested size: 138.2795pt x 103.67595pt.
-</Users/ole/Tex/MEK4420/oblig2images/boxes_3.png, id=1080, 562.2606pt x 421.575
+</Users/ole/Tex/MEK4420/oblig2images/boxes_3.png, id=1252, 562.2606pt x 421.575
 pt>
 File: /Users/ole/Tex/MEK4420/oblig2images/boxes_3.png Graphic file (type png)
 <use /Users/ole/Tex/MEK4420/oblig2images/boxes_3.png>
 Package pdftex.def Info: /Users/ole/Tex/MEK4420/oblig2images/boxes_3.png  used 
-on input line 157.
+on input line 189.
 (pdftex.def)             Requested size: 138.2795pt x 103.67595pt.
-</Users/ole/Tex/MEK4420/oblig2images/boxes_4.png, id=1081, 562.2606pt x 421.575
+</Users/ole/Tex/MEK4420/oblig2images/boxes_4.png, id=1253, 562.2606pt x 421.575
 pt>
 File: /Users/ole/Tex/MEK4420/oblig2images/boxes_4.png Graphic file (type png)
 <use /Users/ole/Tex/MEK4420/oblig2images/boxes_4.png>
 Package pdftex.def Info: /Users/ole/Tex/MEK4420/oblig2images/boxes_4.png  used 
-on input line 157.
+on input line 189.
 (pdftex.def)             Requested size: 138.2795pt x 103.67595pt.
 
-Overfull \vbox (6.33554pt too high) detected at line 157
+Overfull \vbox (13.73355pt too high) detected at line 189
  []
 
-[17
+[19
 
  </Users/ole/Tex/MEK4420/oblig2images/boxes_1.png (PNG copy)> </Users/ole/Tex/M
 EK4420/oblig2images/boxes_2.png (PNG copy)> </Users/ole/Tex/MEK4420/oblig2image
 s/boxes_3.png (PNG copy)> </Users/ole/Tex/MEK4420/oblig2images/boxes_4.png (PNG
- copy)>] [18
+ copy)>] [20
 
 ]
-</Users/ole/Tex/MEK4420/oblig2images/plot_1_LD_1_nu09.png, id=1200, 562.2606pt 
+</Users/ole/Tex/MEK4420/oblig2images/plot_1_LD_1_nu09.png, id=1377, 562.2606pt 
 x 421.575pt>
 File: /Users/ole/Tex/MEK4420/oblig2images/plot_1_LD_1_nu09.png Graphic file (ty
 pe png)
 <use /Users/ole/Tex/MEK4420/oblig2images/plot_1_LD_1_nu09.png>
 Package pdftex.def Info: /Users/ole/Tex/MEK4420/oblig2images/plot_1_LD_1_nu09.p
-ng  used on input line 189.
+ng  used on input line 221.
 (pdftex.def)             Requested size: 138.2795pt x 103.67595pt.
-</Users/ole/Tex/MEK4420/oblig2images/plot_2_LD_2_nu09.png, id=1201, 562.2606pt 
+</Users/ole/Tex/MEK4420/oblig2images/plot_2_LD_2_nu09.png, id=1378, 562.2606pt 
 x 421.575pt>
 File: /Users/ole/Tex/MEK4420/oblig2images/plot_2_LD_2_nu09.png Graphic file (ty
 pe png)
 <use /Users/ole/Tex/MEK4420/oblig2images/plot_2_LD_2_nu09.png>
 Package pdftex.def Info: /Users/ole/Tex/MEK4420/oblig2images/plot_2_LD_2_nu09.p
-ng  used on input line 189.
+ng  used on input line 221.
 (pdftex.def)             Requested size: 138.2795pt x 103.67595pt.
-</Users/ole/Tex/MEK4420/oblig2images/plot_3_LD_3_nu09.png, id=1202, 562.2606pt 
+</Users/ole/Tex/MEK4420/oblig2images/plot_3_LD_3_nu09.png, id=1379, 562.2606pt 
 x 421.575pt>
 File: /Users/ole/Tex/MEK4420/oblig2images/plot_3_LD_3_nu09.png Graphic file (ty
 pe png)
 <use /Users/ole/Tex/MEK4420/oblig2images/plot_3_LD_3_nu09.png>
 Package pdftex.def Info: /Users/ole/Tex/MEK4420/oblig2images/plot_3_LD_3_nu09.p
-ng  used on input line 189.
+ng  used on input line 221.
 (pdftex.def)             Requested size: 138.2795pt x 103.67595pt.
-</Users/ole/Tex/MEK4420/oblig2images/plot_4_LD_4_nu09.png, id=1203, 562.2606pt 
+</Users/ole/Tex/MEK4420/oblig2images/plot_4_LD_4_nu09.png, id=1380, 562.2606pt 
 x 421.575pt>
 File: /Users/ole/Tex/MEK4420/oblig2images/plot_4_LD_4_nu09.png Graphic file (ty
 pe png)
 <use /Users/ole/Tex/MEK4420/oblig2images/plot_4_LD_4_nu09.png>
 Package pdftex.def Info: /Users/ole/Tex/MEK4420/oblig2images/plot_4_LD_4_nu09.p
-ng  used on input line 189.
+ng  used on input line 221.
 (pdftex.def)             Requested size: 138.2795pt x 103.67595pt.
 
-Overfull \vbox (12.026pt too high) detected at line 189
+Overfull \vbox (19.42401pt too high) detected at line 221
  []
 
-[19
+[21
 
  </Users/ole/Tex/MEK4420/oblig2images/plot_1_LD_1_nu09.png (PNG copy)> </Users/
 ole/Tex/MEK4420/oblig2images/plot_2_LD_2_nu09.png (PNG copy)> </Users/ole/Tex/M
 EK4420/oblig2images/plot_3_LD_3_nu09.png (PNG copy)> </Users/ole/Tex/MEK4420/ob
 lig2images/plot_4_LD_4_nu09.png (PNG copy)>]
-</Users/ole/Tex/MEK4420/oblig2images/plot_1_LD_1_nu12.png, id=1264, 422.0568pt 
+</Users/ole/Tex/MEK4420/oblig2images/plot_1_LD_1_nu12.png, id=1442, 422.0568pt 
 x 316.5426pt>
 File: /Users/ole/Tex/MEK4420/oblig2images/plot_1_LD_1_nu12.png Graphic file (ty
 pe png)
 <use /Users/ole/Tex/MEK4420/oblig2images/plot_1_LD_1_nu12.png>
 Package pdftex.def Info: /Users/ole/Tex/MEK4420/oblig2images/plot_1_LD_1_nu12.p
-ng  used on input line 211.
+ng  used on input line 243.
 (pdftex.def)             Requested size: 138.2795pt x 103.71072pt.
-</Users/ole/Tex/MEK4420/oblig2images/plot_2_LD_2_nu12.png, id=1265, 562.2606pt 
+</Users/ole/Tex/MEK4420/oblig2images/plot_2_LD_2_nu12.png, id=1443, 562.2606pt 
 x 421.575pt>
 File: /Users/ole/Tex/MEK4420/oblig2images/plot_2_LD_2_nu12.png Graphic file (ty
 pe png)
 <use /Users/ole/Tex/MEK4420/oblig2images/plot_2_LD_2_nu12.png>
 Package pdftex.def Info: /Users/ole/Tex/MEK4420/oblig2images/plot_2_LD_2_nu12.p
-ng  used on input line 211.
+ng  used on input line 243.
 (pdftex.def)             Requested size: 138.2795pt x 103.67595pt.
-</Users/ole/Tex/MEK4420/oblig2images/plot_3_LD_3_nu12.png, id=1266, 562.2606pt 
+</Users/ole/Tex/MEK4420/oblig2images/plot_3_LD_3_nu12.png, id=1444, 562.2606pt 
 x 421.575pt>
 File: /Users/ole/Tex/MEK4420/oblig2images/plot_3_LD_3_nu12.png Graphic file (ty
 pe png)
 <use /Users/ole/Tex/MEK4420/oblig2images/plot_3_LD_3_nu12.png>
 Package pdftex.def Info: /Users/ole/Tex/MEK4420/oblig2images/plot_3_LD_3_nu12.p
-ng  used on input line 211.
+ng  used on input line 243.
 (pdftex.def)             Requested size: 138.2795pt x 103.67595pt.
-</Users/ole/Tex/MEK4420/oblig2images/plot_4_LD_4_nu12.png, id=1267, 562.2606pt 
+</Users/ole/Tex/MEK4420/oblig2images/plot_4_LD_4_nu12.png, id=1445, 562.2606pt 
 x 421.575pt>
 File: /Users/ole/Tex/MEK4420/oblig2images/plot_4_LD_4_nu12.png Graphic file (ty
 pe png)
 <use /Users/ole/Tex/MEK4420/oblig2images/plot_4_LD_4_nu12.png>
 Package pdftex.def Info: /Users/ole/Tex/MEK4420/oblig2images/plot_4_LD_4_nu12.p
-ng  used on input line 211.
+ng  used on input line 243.
 (pdftex.def)             Requested size: 138.2795pt x 103.67595pt.
 
-Overfull \vbox (12.06078pt too high) detected at line 211
+Overfull \vbox (19.45879pt too high) detected at line 243
  []
 
-[20
+[22
 
  </Users/ole/Tex/MEK4420/oblig2images/plot_1_LD_1_nu12.png (PNG copy)> </Users/
 ole/Tex/MEK4420/oblig2images/plot_2_LD_2_nu12.png (PNG copy)> </Users/ole/Tex/M
 EK4420/oblig2images/plot_3_LD_3_nu12.png (PNG copy)> </Users/ole/Tex/MEK4420/ob
 lig2images/plot_4_LD_4_nu12.png (PNG copy)>]
-</Users/ole/Tex/MEK4420/oblig2images/plot_phi2_1.png, id=1326, 422.0568pt x 316
+</Users/ole/Tex/MEK4420/oblig2images/plot_phi2_1.png, id=1506, 422.0568pt x 316
 .5426pt>
 File: /Users/ole/Tex/MEK4420/oblig2images/plot_phi2_1.png Graphic file (type pn
 g)
 <use /Users/ole/Tex/MEK4420/oblig2images/plot_phi2_1.png>
 Package pdftex.def Info: /Users/ole/Tex/MEK4420/oblig2images/plot_phi2_1.png  u
-sed on input line 234.
+sed on input line 267.
 (pdftex.def)             Requested size: 138.2795pt x 103.71072pt.
-</Users/ole/Tex/MEK4420/oblig2images/plot_phi2_2.png, id=1327, 422.0568pt x 316
+</Users/ole/Tex/MEK4420/oblig2images/plot_phi2_2.png, id=1507, 422.0568pt x 316
 .5426pt>
 File: /Users/ole/Tex/MEK4420/oblig2images/plot_phi2_2.png Graphic file (type pn
 g)
 <use /Users/ole/Tex/MEK4420/oblig2images/plot_phi2_2.png>
 Package pdftex.def Info: /Users/ole/Tex/MEK4420/oblig2images/plot_phi2_2.png  u
-sed on input line 234.
+sed on input line 267.
 (pdftex.def)             Requested size: 138.2795pt x 103.71072pt.
-</Users/ole/Tex/MEK4420/oblig2images/plot_phi2_3.png, id=1328, 422.0568pt x 316
+</Users/ole/Tex/MEK4420/oblig2images/plot_phi2_3.png, id=1508, 422.0568pt x 316
 .5426pt>
 File: /Users/ole/Tex/MEK4420/oblig2images/plot_phi2_3.png Graphic file (type pn
 g)
 <use /Users/ole/Tex/MEK4420/oblig2images/plot_phi2_3.png>
 Package pdftex.def Info: /Users/ole/Tex/MEK4420/oblig2images/plot_phi2_3.png  u
-sed on input line 234.
+sed on input line 267.
 (pdftex.def)             Requested size: 138.2795pt x 103.71072pt.
-</Users/ole/Tex/MEK4420/oblig2images/plot_phi2_4.png, id=1329, 422.0568pt x 316
+</Users/ole/Tex/MEK4420/oblig2images/plot_phi2_4.png, id=1509, 422.0568pt x 316
 .5426pt>
 File: /Users/ole/Tex/MEK4420/oblig2images/plot_phi2_4.png Graphic file (type pn
 g)
 <use /Users/ole/Tex/MEK4420/oblig2images/plot_phi2_4.png>
 Package pdftex.def Info: /Users/ole/Tex/MEK4420/oblig2images/plot_phi2_4.png  u
-sed on input line 234.
+sed on input line 267.
 (pdftex.def)             Requested size: 138.2795pt x 103.71072pt.
 
-Overfull \vbox (12.09555pt too high) detected at line 234
- []
-
-[21
-
- </Users/ole/Tex/MEK4420/oblig2images/plot_phi2_1.png (PNG copy)> </Users/ole/T
-ex/MEK4420/oblig2images/plot_phi2_2.png (PNG copy)> </Users/ole/Tex/MEK4420/obl
-ig2images/plot_phi2_3.png (PNG copy)> </Users/ole/Tex/MEK4420/oblig2images/plot
-_phi2_4.png (PNG copy)>] [22
-
-]
-Overfull \hbox (9.88141pt too wide) detected at line 273
-[]
+Overfull \vbox (42.36707pt too high) detected at line 267
  []
 
 [23
 
+ </Users/ole/Tex/MEK4420/oblig2images/plot_phi2_1.png (PNG copy)> </Users/ole/T
+ex/MEK4420/oblig2images/plot_phi2_2.png (PNG copy)> </Users/ole/Tex/MEK4420/obl
+ig2images/plot_phi2_3.png (PNG copy)> </Users/ole/Tex/MEK4420/oblig2images/plot
+_phi2_4.png (PNG copy)>] Excluding 'comment' comment.
+Excluding 'comment' comment. [24
+
 ]
-</Users/ole/Tex/MEK4420/oblig2images/plot_a22b22_1.png, id=1510, 422.0568pt x 3
+</Users/ole/Tex/MEK4420/oblig2images/plot_a22b22_1.png, id=1631, 422.0568pt x 3
 16.5426pt>
 File: /Users/ole/Tex/MEK4420/oblig2images/plot_a22b22_1.png Graphic file (type 
 png)
 <use /Users/ole/Tex/MEK4420/oblig2images/plot_a22b22_1.png>
 Package pdftex.def Info: /Users/ole/Tex/MEK4420/oblig2images/plot_a22b22_1.png 
- used on input line 296.
+ used on input line 341.
 (pdftex.def)             Requested size: 138.2795pt x 103.71072pt.
-</Users/ole/Tex/MEK4420/oblig2images/plot_a22b22_2.png, id=1511, 422.0568pt x 3
+</Users/ole/Tex/MEK4420/oblig2images/plot_a22b22_2.png, id=1632, 422.0568pt x 3
 16.5426pt>
 File: /Users/ole/Tex/MEK4420/oblig2images/plot_a22b22_2.png Graphic file (type 
 png)
 <use /Users/ole/Tex/MEK4420/oblig2images/plot_a22b22_2.png>
 Package pdftex.def Info: /Users/ole/Tex/MEK4420/oblig2images/plot_a22b22_2.png 
- used on input line 296.
+ used on input line 341.
 (pdftex.def)             Requested size: 138.2795pt x 103.71072pt.
-</Users/ole/Tex/MEK4420/oblig2images/plot_a22b22_3.png, id=1512, 422.0568pt x 3
+</Users/ole/Tex/MEK4420/oblig2images/plot_a22b22_3.png, id=1633, 422.0568pt x 3
 16.5426pt>
 File: /Users/ole/Tex/MEK4420/oblig2images/plot_a22b22_3.png Graphic file (type 
 png)
 <use /Users/ole/Tex/MEK4420/oblig2images/plot_a22b22_3.png>
 Package pdftex.def Info: /Users/ole/Tex/MEK4420/oblig2images/plot_a22b22_3.png 
- used on input line 296.
+ used on input line 341.
 (pdftex.def)             Requested size: 138.2795pt x 103.71072pt.
-</Users/ole/Tex/MEK4420/oblig2images/plot_a22b22_4.png, id=1513, 422.0568pt x 3
+</Users/ole/Tex/MEK4420/oblig2images/plot_a22b22_4.png, id=1634, 422.0568pt x 3
 16.5426pt>
 File: /Users/ole/Tex/MEK4420/oblig2images/plot_a22b22_4.png Graphic file (type 
 png)
 <use /Users/ole/Tex/MEK4420/oblig2images/plot_a22b22_4.png>
 Package pdftex.def Info: /Users/ole/Tex/MEK4420/oblig2images/plot_a22b22_4.png 
- used on input line 296.
+ used on input line 341.
 (pdftex.def)             Requested size: 138.2795pt x 103.71072pt.
 
-Overfull \vbox (12.09555pt too high) detected at line 296
+Overfull \vbox (19.49356pt too high) detected at line 341
  []
 
-[24
+[25
 
  </Users/ole/Tex/MEK4420/oblig2images/plot_a22b22_1.png (PNG copy)> </Users/ole
 /Tex/MEK4420/oblig2images/plot_a22b22_2.png (PNG copy)> </Users/ole/Tex/MEK4420
 /oblig2images/plot_a22b22_3.png (PNG copy)> </Users/ole/Tex/MEK4420/oblig2image
 s/plot_a22b22_4.png (PNG copy)>]
-Overfull \hbox (25.7075pt too wide) detected at line 324
+Overfull \hbox (25.7075pt too wide) detected at line 361
 []\OT1/mathkerncmss/m/sl/10.95 X[] \OT1/cmss/m/n/10.95 = \OMS/cmsy/m/n/10.95 ^^
 @\OT1/cmr/m/n/10.95 i\OML/cmm/m/it/10.95 !^^Z [][] ^^^[]\OT1/mathkerncmss/m/sl/
 10.95 n[]dS \OT1/cmss/m/n/10.95 = \OML/cmm/m/it/10.95 ^^Z\OT1/mathkerncmss/m/sl
@@ -1273,13 +1293,7 @@ Overfull \hbox (25.7075pt too wide) detected at line 324
 mss/m/sl/10.95 gLe[][]
  []
 
-
-Overfull \vbox (87.8459pt too high) detected at line 324
- []
-
-[25
-
-] [26
+[26
 
 ] [27
 
@@ -1287,74 +1301,153 @@ Overfull \vbox (87.8459pt too high) detected at line 324
 
 ] [29
 
-] [30
+]
+</Users/ole/Tex/MEK4420/oblig2images/aggregated_diffractionplot_1_LD_1.png, id=
+1944, 562.2606pt x 421.575pt>
+File: /Users/ole/Tex/MEK4420/oblig2images/aggregated_diffractionplot_1_LD_1.png
+ Graphic file (type png)
+<use /Users/ole/Tex/MEK4420/oblig2images/aggregated_diffractionplot_1_LD_1.png>
+
+Package pdftex.def Info: /Users/ole/Tex/MEK4420/oblig2images/aggregated_diffrac
+tionplot_1_LD_1.png  used on input line 440.
+(pdftex.def)             Requested size: 138.2795pt x 103.67595pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:a22_1}) h
+as been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.440 \end{frame}
+                 
+</Users/ole/Tex/MEK4420/oblig2images/aggregated_diffractionplot_2_LD_2.png, id=
+1945, 562.2606pt x 421.575pt>
+File: /Users/ole/Tex/MEK4420/oblig2images/aggregated_diffractionplot_2_LD_2.png
+ Graphic file (type png)
+<use /Users/ole/Tex/MEK4420/oblig2images/aggregated_diffractionplot_2_LD_2.png>
+
+Package pdftex.def Info: /Users/ole/Tex/MEK4420/oblig2images/aggregated_diffrac
+tionplot_2_LD_2.png  used on input line 440.
+(pdftex.def)             Requested size: 138.2795pt x 103.67595pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:a22_2}) h
+as been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.440 \end{frame}
+                 
+</Users/ole/Tex/MEK4420/oblig2images/aggregated_diffractionplot_3_LD_3.png, id=
+1946, 562.2606pt x 421.575pt>
+File: /Users/ole/Tex/MEK4420/oblig2images/aggregated_diffractionplot_3_LD_3.png
+ Graphic file (type png)
+<use /Users/ole/Tex/MEK4420/oblig2images/aggregated_diffractionplot_3_LD_3.png>
+
+Package pdftex.def Info: /Users/ole/Tex/MEK4420/oblig2images/aggregated_diffrac
+tionplot_3_LD_3.png  used on input line 440.
+(pdftex.def)             Requested size: 138.2795pt x 103.67595pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:a22_3}) h
+as been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.440 \end{frame}
+                 
+</Users/ole/Tex/MEK4420/oblig2images/aggregated_diffractionplot_4_LD_4.png, id=
+1947, 562.2606pt x 421.575pt>
+File: /Users/ole/Tex/MEK4420/oblig2images/aggregated_diffractionplot_4_LD_4.png
+ Graphic file (type png)
+<use /Users/ole/Tex/MEK4420/oblig2images/aggregated_diffractionplot_4_LD_4.png>
+
+Package pdftex.def Info: /Users/ole/Tex/MEK4420/oblig2images/aggregated_diffrac
+tionplot_4_LD_4.png  used on input line 440.
+(pdftex.def)             Requested size: 138.2795pt x 103.67595pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:a22_4}) h
+as been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.440 \end{frame}
+                 
+Overfull \vbox (36.60706pt too high) detected at line 440
+ []
+
+[30
+
+ </Users/ole/Tex/MEK4420/oblig2images/aggregated_diffractionplot_1_LD_1.png (PN
+G copy)> </Users/ole/Tex/MEK4420/oblig2images/aggregated_diffractionplot_2_LD_2
+.png (PNG copy)> </Users/ole/Tex/MEK4420/oblig2images/aggregated_diffractionplo
+t_3_LD_3.png (PNG copy)> </Users/ole/Tex/MEK4420/oblig2images/aggregated_diffra
+ctionplot_4_LD_4.png (PNG copy)>] [31
+
+] [32
 
 ]
-</Users/ole/Tex/MEK4420/oblig2images/rao_plot1_LD_1.png, id=1930, 562.2606pt x 
+</Users/ole/Tex/MEK4420/oblig2images/rao_plot1_LD_1.png, id=2132, 562.2606pt x 
 421.575pt>
 File: /Users/ole/Tex/MEK4420/oblig2images/rao_plot1_LD_1.png Graphic file (type
  png)
 <use /Users/ole/Tex/MEK4420/oblig2images/rao_plot1_LD_1.png>
 Package pdftex.def Info: /Users/ole/Tex/MEK4420/oblig2images/rao_plot1_LD_1.png
-  used on input line 419.
+  used on input line 506.
 (pdftex.def)             Requested size: 138.2795pt x 103.67595pt.
-</Users/ole/Tex/MEK4420/oblig2images/rao_plot2_LD_2.png, id=1931, 562.2606pt x 
+</Users/ole/Tex/MEK4420/oblig2images/rao_plot2_LD_2.png, id=2133, 562.2606pt x 
 421.575pt>
 File: /Users/ole/Tex/MEK4420/oblig2images/rao_plot2_LD_2.png Graphic file (type
  png)
 <use /Users/ole/Tex/MEK4420/oblig2images/rao_plot2_LD_2.png>
 Package pdftex.def Info: /Users/ole/Tex/MEK4420/oblig2images/rao_plot2_LD_2.png
-  used on input line 419.
+  used on input line 506.
 (pdftex.def)             Requested size: 138.2795pt x 103.67595pt.
-</Users/ole/Tex/MEK4420/oblig2images/rao_plot3_LD_3.png, id=1932, 562.2606pt x 
+</Users/ole/Tex/MEK4420/oblig2images/rao_plot3_LD_3.png, id=2134, 562.2606pt x 
 421.575pt>
 File: /Users/ole/Tex/MEK4420/oblig2images/rao_plot3_LD_3.png Graphic file (type
  png)
 <use /Users/ole/Tex/MEK4420/oblig2images/rao_plot3_LD_3.png>
 Package pdftex.def Info: /Users/ole/Tex/MEK4420/oblig2images/rao_plot3_LD_3.png
-  used on input line 419.
+  used on input line 506.
 (pdftex.def)             Requested size: 138.2795pt x 103.67595pt.
-</Users/ole/Tex/MEK4420/oblig2images/rao_plot4_LD_4.png, id=1933, 562.2606pt x 
+</Users/ole/Tex/MEK4420/oblig2images/rao_plot4_LD_4.png, id=2135, 562.2606pt x 
 421.575pt>
 File: /Users/ole/Tex/MEK4420/oblig2images/rao_plot4_LD_4.png Graphic file (type
  png)
 <use /Users/ole/Tex/MEK4420/oblig2images/rao_plot4_LD_4.png>
 Package pdftex.def Info: /Users/ole/Tex/MEK4420/oblig2images/rao_plot4_LD_4.png
-  used on input line 419.
+  used on input line 506.
 (pdftex.def)             Requested size: 138.2795pt x 103.67595pt.
 
-Overfull \vbox (12.026pt too high) detected at line 419
+Overfull \vbox (19.42401pt too high) detected at line 506
  []
 
-[31
+[33
 
  </Users/ole/Tex/MEK4420/oblig2images/rao_plot1_LD_1.png (PNG copy)> </Users/ol
 e/Tex/MEK4420/oblig2images/rao_plot2_LD_2.png (PNG copy)> </Users/ole/Tex/MEK44
 20/oblig2images/rao_plot3_LD_3.png (PNG copy)> </Users/ole/Tex/MEK4420/oblig2im
-ages/rao_plot4_LD_4.png (PNG copy)>] [32
+ages/rao_plot4_LD_4.png (PNG copy)>] [34
 
 ]
-\tf@nav=\write6
-\openout6 = `pres.nav'.
+\tf@nav=\write7
+\openout7 = `pres.nav'.
 
-\tf@toc=\write7
-\openout7 = `pres.toc'.
+\tf@toc=\write8
+\openout8 = `pres.toc'.
 
-\tf@snm=\write8
-\openout8 = `pres.snm'.
+\tf@snm=\write9
+\openout9 = `pres.snm'.
 
  (./pres.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
 Package rerunfilecheck Info: File `pres.out' has not changed.
-(rerunfilecheck)             Checksum: B94E989244F2BDDD4704B84040FA599E;2484.
+(rerunfilecheck)             Checksum: 6AAFD32922046EF898A4E2AC9CE9695D;1425.
  ) 
 Here is how much of TeX's memory you used:
- 23466 strings out of 476025
- 467137 string characters out of 5790017
- 1884388 words of memory out of 5000000
- 43345 multiletter control sequences out of 15000+600000
+ 23565 strings out of 476025
+ 470456 string characters out of 5790017
+ 1882388 words of memory out of 5000000
+ 43429 multiletter control sequences out of 15000+600000
  519942 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,19n,122p,1572b,789s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 128i,19n,122p,403b,789s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
 ></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></
@@ -1366,11 +1459,12 @@ al/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local
 /texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/local
 /texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/local/
 texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/t
-exlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on pres.pdf (32 pages, 1593104 bytes).
+exlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/tex
+live/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on pres.pdf (34 pages, 1786992 bytes).
 PDF statistics:
- 2123 PDF objects out of 2487 (max. 8388607)
- 1970 compressed objects within 20 object streams
- 78 named destinations out of 1000 (max. 500000)
- 275 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2334 PDF objects out of 2487 (max. 8388607)
+ 2169 compressed objects within 22 object streams
+ 85 named destinations out of 1000 (max. 500000)
+ 319 words of extra memory for PDF output out of 10000 (max. 10000000)
 
